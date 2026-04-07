@@ -1,0 +1,13 @@
+package amarmend;
+
+import java.util.Scanner;
+
+public class Alab1 {
+	
+	public static void main(String[] args) {
+		
+		Scanner sc = new
+				
+		
+	}
+}
